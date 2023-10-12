@@ -1,0 +1,1 @@
+Welcome to Week 1 of the Advanced Django: Building a Blog course. These assignments cover creating a blog in Django, generic relationships, the Bootstrap HTML framework, filters, tags, and crispy forms. The module ends with graded coding exercises.
